@@ -1,0 +1,898 @@
+[INFO ] 2024-06-17 17:27:50.589 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[INFO ] 2024-06-17 17:27:50.601 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+[INFO ] 2024-06-17 17:27:50.603 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-06-17 17:27:50.603 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.604 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.604 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.605 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.605 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.606 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.606 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.606 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.607 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.607 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.607 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.608 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.608 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.610 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.610 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.612 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.612 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.615 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.615 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.616 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.616 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.617 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.617 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.620 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.620 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.620 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:27:50.621 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 17:27:50.631 [main] Utils - [TestNG] Running:
+  C:\Users\alokpandey02\AppData\Local\Temp\testng-eclipse-57072443\testng-customsuite.xml
+
+[INFO ] 2024-06-17 17:27:50.672 [main] TestLogger - Thread 1: Creating extent report instance
+[ERROR] 2024-06-17 17:27:50.698 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240611123629.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240611123629.html
+[ERROR] 2024-06-17 17:27:50.699 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240611131416.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240611131416.html
+[ERROR] 2024-06-17 17:27:50.700 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613150319.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613150319.html
+[ERROR] 2024-06-17 17:27:50.701 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152002.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152002.html
+[ERROR] 2024-06-17 17:27:50.702 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152036.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152036.html
+[ERROR] 2024-06-17 17:27:50.704 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152217.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152217.html
+[ERROR] 2024-06-17 17:27:50.705 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152300.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152300.html
+[ERROR] 2024-06-17 17:27:50.706 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152329.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152329.html
+[ERROR] 2024-06-17 17:27:50.706 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152353.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152353.html
+[ERROR] 2024-06-17 17:27:50.707 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152628.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152628.html
+[ERROR] 2024-06-17 17:27:50.708 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152758.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152758.html
+[ERROR] 2024-06-17 17:27:50.709 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152927.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152927.html
+[ERROR] 2024-06-17 17:27:50.710 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153005.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153005.html
+[ERROR] 2024-06-17 17:27:50.711 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153115.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153115.html
+[ERROR] 2024-06-17 17:27:50.711 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153345.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153345.html
+[ERROR] 2024-06-17 17:27:50.712 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153418.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153418.html
+[INFO ] 2024-06-17 17:27:50.793 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 17:27:50.903 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+[INFO ] 2024-06-17 17:27:50.926 [main] TestLogger - Thread 1: GET endpoint - /booking
+[INFO ] 2024-06-17 17:27:51.067 [main] TestLogger - Thread 1: Reading property file from path C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\src\test\resources\config.properties
+[INFO ] 2024-06-17 17:27:51.067 [main] TestLogger - Thread 1: Reading value from property file for key username
+[INFO ] 2024-06-17 17:27:51.067 [main] TestLogger - Thread 1: Reading value from property file for key password
+[INFO ] 2024-06-17 17:27:56.429 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@a7bbdbc: 51 ms
+[INFO ] 2024-06-17 17:27:56.441 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7f77e065: 12 ms
+[INFO ] 2024-06-17 17:27:56.455 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@fceab5d: 13 ms
+[INFO ] 2024-06-17 17:27:56.464 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7544260a: 8 ms
+[INFO ] 2024-06-17 17:27:56.495 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2a6dbb7c: 30 ms
+[INFO ] 2024-06-17 17:27:56.495 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5178345d: 0 ms
+[INFO ] 2024-06-17 17:29:29.685 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+[INFO ] 2024-06-17 17:29:29.697 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+[INFO ] 2024-06-17 17:29:29.698 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.699 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.700 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.700 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.701 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.701 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.701 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.701 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.702 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.702 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.703 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.703 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.704 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.704 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.706 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.707 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.708 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-06-17 17:29:29.708 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.711 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.712 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.712 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.712 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.713 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-06-17 17:29:29.713 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.715 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.715 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.715 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.716 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:29.723 [main] Utils - [TestNG] Running:
+  C:\Users\alokpandey02\AppData\Local\Temp\testng-eclipse--1830587739\testng-customsuite.xml
+
+[INFO ] 2024-06-17 17:29:29.747 [main] TestLogger - Thread 1: Creating extent report instance
+[ERROR] 2024-06-17 17:29:29.751 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240611123629.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240611123629.html
+[ERROR] 2024-06-17 17:29:29.752 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240611131416.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240611131416.html
+[ERROR] 2024-06-17 17:29:29.752 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613150319.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613150319.html
+[ERROR] 2024-06-17 17:29:29.753 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152002.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152002.html
+[ERROR] 2024-06-17 17:29:29.754 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152036.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152036.html
+[ERROR] 2024-06-17 17:29:29.754 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152217.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152217.html
+[ERROR] 2024-06-17 17:29:29.754 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152300.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152300.html
+[ERROR] 2024-06-17 17:29:29.755 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152329.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152329.html
+[ERROR] 2024-06-17 17:29:29.755 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152353.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152353.html
+[ERROR] 2024-06-17 17:29:29.756 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152628.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152628.html
+[ERROR] 2024-06-17 17:29:29.757 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152758.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152758.html
+[ERROR] 2024-06-17 17:29:29.757 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152927.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152927.html
+[ERROR] 2024-06-17 17:29:29.758 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153005.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153005.html
+[ERROR] 2024-06-17 17:29:29.759 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153115.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153115.html
+[ERROR] 2024-06-17 17:29:29.759 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153345.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153345.html
+[ERROR] 2024-06-17 17:29:29.760 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153418.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153418.html
+[ERROR] 2024-06-17 17:29:29.760 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617172750.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617172750.html
+[INFO ] 2024-06-17 17:29:29.810 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 17:29:29.903 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+[INFO ] 2024-06-17 17:29:29.924 [main] TestLogger - Thread 1: GET endpoint - /booking
+[INFO ] 2024-06-17 17:29:30.050 [main] TestLogger - Thread 1: Reading property file from path C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\src\test\resources\config.properties
+[INFO ] 2024-06-17 17:29:30.051 [main] TestLogger - Thread 1: Reading value from property file for key username
+[INFO ] 2024-06-17 17:29:30.051 [main] TestLogger - Thread 1: Reading value from property file for key password
+[INFO ] 2024-06-17 17:29:35.468 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@42238078: 55 ms
+[INFO ] 2024-06-17 17:29:35.482 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2295566b: 13 ms
+[INFO ] 2024-06-17 17:29:35.520 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6e017950: 37 ms
+[INFO ] 2024-06-17 17:29:35.530 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3b66ac74: 10 ms
+[INFO ] 2024-06-17 17:29:35.559 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4bc21e34: 29 ms
+[INFO ] 2024-06-17 17:29:35.560 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7544260a: 1 ms
+[INFO ] 2024-06-17 17:29:58.911 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[INFO ] 2024-06-17 17:29:58.921 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[INFO ] 2024-06-17 17:29:58.922 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.923 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 17:29:58.924 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.924 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.925 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.925 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.926 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.926 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.926 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.927 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.927 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.927 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.928 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.928 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.929 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.930 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.930 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.931 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.933 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.934 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 17:29:58.934 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.934 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.935 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.935 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.937 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.937 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.938 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.938 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:29:58.944 [main] Utils - [TestNG] Running:
+  C:\Users\alokpandey02\AppData\Local\Temp\testng-eclipse--82258089\testng-customsuite.xml
+
+[INFO ] 2024-06-17 17:29:58.970 [main] TestLogger - Thread 1: Creating extent report instance
+[ERROR] 2024-06-17 17:29:58.990 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240611123629.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240611123629.html
+[ERROR] 2024-06-17 17:29:58.991 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240611131416.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240611131416.html
+[ERROR] 2024-06-17 17:29:58.991 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613150319.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613150319.html
+[ERROR] 2024-06-17 17:29:58.991 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152002.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152002.html
+[ERROR] 2024-06-17 17:29:58.993 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152036.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152036.html
+[ERROR] 2024-06-17 17:29:58.993 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152217.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152217.html
+[ERROR] 2024-06-17 17:29:58.993 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152300.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152300.html
+[ERROR] 2024-06-17 17:29:58.994 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152329.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152329.html
+[ERROR] 2024-06-17 17:29:58.994 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152353.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152353.html
+[ERROR] 2024-06-17 17:29:58.995 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152628.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152628.html
+[ERROR] 2024-06-17 17:29:58.995 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152758.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152758.html
+[ERROR] 2024-06-17 17:29:58.996 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152927.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152927.html
+[ERROR] 2024-06-17 17:29:58.997 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153005.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153005.html
+[ERROR] 2024-06-17 17:29:58.997 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153115.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153115.html
+[ERROR] 2024-06-17 17:29:58.998 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153345.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153345.html
+[ERROR] 2024-06-17 17:29:58.998 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153418.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153418.html
+[ERROR] 2024-06-17 17:29:58.998 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617172750.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617172750.html
+[ERROR] 2024-06-17 17:29:58.999 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617172929.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617172929.html
+[INFO ] 2024-06-17 17:29:59.055 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 17:29:59.135 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[INFO ] 2024-06-17 17:29:59.155 [main] TestLogger - Thread 1: GET endpoint - /booking
+[INFO ] 2024-06-17 17:29:59.289 [main] TestLogger - Thread 1: Reading property file from path C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\src\test\resources\config.properties
+[INFO ] 2024-06-17 17:29:59.297 [main] TestLogger - Thread 1: Reading value from property file for key username
+[INFO ] 2024-06-17 17:29:59.297 [main] TestLogger - Thread 1: Reading value from property file for key password
+[INFO ] 2024-06-17 17:30:04.708 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@397a10df: 79 ms
+[INFO ] 2024-06-17 17:30:04.720 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@24068086: 12 ms
+[INFO ] 2024-06-17 17:30:04.746 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@237aa0c7: 26 ms
+[INFO ] 2024-06-17 17:30:04.756 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3d98729a: 10 ms
+[INFO ] 2024-06-17 17:30:04.784 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@ace2408: 27 ms
+[INFO ] 2024-06-17 17:30:04.785 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3573e19d: 0 ms
+[INFO ] 2024-06-17 17:31:42.870 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+[INFO ] 2024-06-17 17:31:42.879 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[INFO ] 2024-06-17 17:31:42.881 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.882 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 17:31:42.883 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.883 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.883 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.884 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.884 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.884 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.885 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.885 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.885 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.886 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.886 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.886 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.888 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-06-17 17:31:42.888 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.889 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.890 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.892 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.892 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.892 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.892 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.893 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.894 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.895 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.895 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.896 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.896 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:31:42.902 [main] Utils - [TestNG] Running:
+  C:\Users\alokpandey02\AppData\Local\Temp\testng-eclipse-1868219621\testng-customsuite.xml
+
+[INFO ] 2024-06-17 17:31:42.922 [main] TestLogger - Thread 1: Creating extent report instance
+[ERROR] 2024-06-17 17:31:42.924 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240611123629.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240611123629.html
+[ERROR] 2024-06-17 17:31:42.925 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240611131416.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240611131416.html
+[ERROR] 2024-06-17 17:31:42.925 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613150319.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613150319.html
+[ERROR] 2024-06-17 17:31:42.925 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152002.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152002.html
+[ERROR] 2024-06-17 17:31:42.926 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152036.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152036.html
+[ERROR] 2024-06-17 17:31:42.927 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152217.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152217.html
+[ERROR] 2024-06-17 17:31:42.929 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152300.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152300.html
+[ERROR] 2024-06-17 17:31:42.929 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152329.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152329.html
+[ERROR] 2024-06-17 17:31:42.930 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152353.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152353.html
+[ERROR] 2024-06-17 17:31:42.931 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152628.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152628.html
+[ERROR] 2024-06-17 17:31:42.931 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152758.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152758.html
+[ERROR] 2024-06-17 17:31:42.932 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152927.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152927.html
+[ERROR] 2024-06-17 17:31:42.932 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153005.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153005.html
+[ERROR] 2024-06-17 17:31:42.933 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153115.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153115.html
+[ERROR] 2024-06-17 17:31:42.933 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153345.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153345.html
+[ERROR] 2024-06-17 17:31:42.934 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153418.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153418.html
+[ERROR] 2024-06-17 17:31:42.934 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617172750.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617172750.html
+[ERROR] 2024-06-17 17:31:42.934 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617172929.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617172929.html
+[ERROR] 2024-06-17 17:31:42.935 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617172959.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617172959.html
+[INFO ] 2024-06-17 17:31:42.980 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 17:31:43.067 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+[INFO ] 2024-06-17 17:31:43.086 [main] TestLogger - Thread 1: GET endpoint - /booking
+[INFO ] 2024-06-17 17:31:43.213 [main] TestLogger - Thread 1: Reading property file from path C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\src\test\resources\config.properties
+[INFO ] 2024-06-17 17:31:43.214 [main] TestLogger - Thread 1: Reading value from property file for key username
+[INFO ] 2024-06-17 17:31:43.214 [main] TestLogger - Thread 1: Reading value from property file for key password
+[INFO ] 2024-06-17 17:31:48.823 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@57927bc9: 52 ms
+[INFO ] 2024-06-17 17:31:48.824 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@323efafe: 1 ms
+[INFO ] 2024-06-17 17:31:48.834 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@42238078: 10 ms
+[INFO ] 2024-06-17 17:31:48.840 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7286827b: 5 ms
+[INFO ] 2024-06-17 17:31:48.845 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6e67a8c0: 5 ms
+[INFO ] 2024-06-17 17:31:48.845 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5960f17: 0 ms
+[INFO ] 2024-06-17 17:41:40.364 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 17:41:40.466 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[INFO ] 2024-06-17 17:41:40.474 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+[INFO ] 2024-06-17 17:41:40.475 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.476 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 17:41:40.477 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.477 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.477 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.477 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.478 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.478 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.478 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.479 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.479 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.479 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.480 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.480 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.481 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.482 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.482 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.483 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 17:41:40.485 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.486 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 17:41:40.486 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.486 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.487 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.487 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.489 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.489 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.489 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.490 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:41:40.496 [main] Utils - [TestNG] Running:
+  C:\Users\alokpandey02\AppData\Local\Temp\testng-eclipse--1092228885\testng-customsuite.xml
+
+[INFO ] 2024-06-17 17:41:40.512 [main] TestLogger - Thread 1: Creating extent report instance
+[ERROR] 2024-06-17 17:41:40.513 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240611123629.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240611123629.html
+[ERROR] 2024-06-17 17:41:40.514 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240611131416.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240611131416.html
+[ERROR] 2024-06-17 17:41:40.515 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613150319.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613150319.html
+[ERROR] 2024-06-17 17:41:40.515 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152002.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152002.html
+[ERROR] 2024-06-17 17:41:40.516 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152036.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152036.html
+[ERROR] 2024-06-17 17:41:40.517 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152217.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152217.html
+[ERROR] 2024-06-17 17:41:40.517 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152300.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152300.html
+[ERROR] 2024-06-17 17:41:40.518 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152329.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152329.html
+[ERROR] 2024-06-17 17:41:40.518 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152353.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152353.html
+[ERROR] 2024-06-17 17:41:40.518 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152628.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152628.html
+[ERROR] 2024-06-17 17:41:40.519 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152758.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152758.html
+[ERROR] 2024-06-17 17:41:40.519 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152927.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152927.html
+[ERROR] 2024-06-17 17:41:40.519 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153005.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153005.html
+[ERROR] 2024-06-17 17:41:40.520 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153115.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153115.html
+[ERROR] 2024-06-17 17:41:40.520 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153345.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153345.html
+[ERROR] 2024-06-17 17:41:40.520 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153418.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153418.html
+[ERROR] 2024-06-17 17:41:40.521 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617172750.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617172750.html
+[ERROR] 2024-06-17 17:41:40.521 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617172929.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617172929.html
+[ERROR] 2024-06-17 17:41:40.521 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617172959.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617172959.html
+[ERROR] 2024-06-17 17:41:40.521 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617173142.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617173142.html
+[INFO ] 2024-06-17 17:41:40.522 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 17:41:40.537 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[INFO ] 2024-06-17 17:41:40.898 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@37496720: 55 ms
+[INFO ] 2024-06-17 17:41:40.911 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6468a7b6: 13 ms
+[INFO ] 2024-06-17 17:41:40.919 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@462e1e64: 8 ms
+[INFO ] 2024-06-17 17:41:40.925 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4832f03b: 5 ms
+[INFO ] 2024-06-17 17:41:40.935 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@11e355ca: 10 ms
+[INFO ] 2024-06-17 17:41:40.936 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@70d63e05: 0 ms
+[INFO ] 2024-06-17 17:42:10.106 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 17:42:10.206 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[INFO ] 2024-06-17 17:42:10.214 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[INFO ] 2024-06-17 17:42:10.215 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.216 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.216 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.217 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.217 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.217 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.218 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.218 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.218 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.219 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.219 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.219 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.220 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.220 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.221 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.222 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.223 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-06-17 17:42:10.223 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.226 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.226 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.226 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.226 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.227 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.228 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.229 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.230 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.230 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.230 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 17:42:10.236 [main] Utils - [TestNG] Running:
+  C:\Users\alokpandey02\AppData\Local\Temp\testng-eclipse--1482318297\testng-customsuite.xml
+
+[INFO ] 2024-06-17 17:42:10.256 [main] TestLogger - Thread 1: Creating extent report instance
+[ERROR] 2024-06-17 17:42:10.258 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240611123629.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240611123629.html
+[ERROR] 2024-06-17 17:42:10.259 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240611131416.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240611131416.html
+[ERROR] 2024-06-17 17:42:10.259 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613150319.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613150319.html
+[ERROR] 2024-06-17 17:42:10.260 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152002.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152002.html
+[ERROR] 2024-06-17 17:42:10.260 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152036.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152036.html
+[ERROR] 2024-06-17 17:42:10.261 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152217.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152217.html
+[ERROR] 2024-06-17 17:42:10.262 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152300.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152300.html
+[ERROR] 2024-06-17 17:42:10.262 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152329.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152329.html
+[ERROR] 2024-06-17 17:42:10.263 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152353.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152353.html
+[ERROR] 2024-06-17 17:42:10.263 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152628.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152628.html
+[ERROR] 2024-06-17 17:42:10.263 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152758.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152758.html
+[ERROR] 2024-06-17 17:42:10.264 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613152927.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613152927.html
+[ERROR] 2024-06-17 17:42:10.264 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153005.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153005.html
+[ERROR] 2024-06-17 17:42:10.265 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153115.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153115.html
+[ERROR] 2024-06-17 17:42:10.265 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153345.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153345.html
+[ERROR] 2024-06-17 17:42:10.266 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240613153418.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240613153418.html
+[ERROR] 2024-06-17 17:42:10.266 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617172750.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617172750.html
+[ERROR] 2024-06-17 17:42:10.267 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617172929.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617172929.html
+[ERROR] 2024-06-17 17:42:10.267 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617172959.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617172959.html
+[ERROR] 2024-06-17 17:42:10.268 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617173142.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617173142.html
+[ERROR] 2024-06-17 17:42:10.268 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617174140.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617174140.html
+[INFO ] 2024-06-17 17:42:10.269 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 17:42:10.283 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[INFO ] 2024-06-17 17:42:10.312 [main] TestLogger - Thread 1: GET endpoint - /booking
+[INFO ] 2024-06-17 17:42:10.432 [main] TestLogger - Thread 1: Reading property file from path C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\src\test\resources\config.properties
+[INFO ] 2024-06-17 17:42:10.439 [main] TestLogger - Thread 1: Reading value from property file for key username
+[INFO ] 2024-06-17 17:42:10.440 [main] TestLogger - Thread 1: Reading value from property file for key password
+[INFO ] 2024-06-17 17:42:15.211 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4ad8d36f: 48 ms
+[INFO ] 2024-06-17 17:42:15.212 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@74a5bef0: 0 ms
+[INFO ] 2024-06-17 17:42:15.222 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@117fb9ba: 10 ms
+[INFO ] 2024-06-17 17:42:15.228 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5178345d: 5 ms
+[INFO ] 2024-06-17 17:42:15.235 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7eefaca0: 5 ms
+[INFO ] 2024-06-17 17:42:15.235 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7d5ef1c3: 0 ms
+[INFO ] 2024-06-17 19:10:30.527 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 19:10:30.670 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+[INFO ] 2024-06-17 19:10:30.681 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+[INFO ] 2024-06-17 19:10:30.684 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.684 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.685 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.685 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.686 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.686 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.686 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.687 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.687 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.687 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.688 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.688 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.689 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.689 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.691 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.692 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.693 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-06-17 19:10:30.693 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.696 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.696 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.697 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.697 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.700 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[INFO ] 2024-06-17 19:10:30.701 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.703 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.703 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.704 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-06-17 19:10:30.704 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:10:30.712 [main] Utils - [TestNG] Running:
+  C:\Users\alokpandey02\AppData\Local\Temp\testng-eclipse--532416020\testng-customsuite.xml
+
+[INFO ] 2024-06-17 19:10:30.736 [main] TestLogger - Thread 1: Creating extent report instance
+[INFO ] 2024-06-17 19:10:30.737 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 19:10:30.755 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+[INFO ] 2024-06-17 19:10:30.790 [main] TestLogger - Thread 1: GET endpoint - /booking/{id}
+[INFO ] 2024-06-17 19:10:30.980 [main] TestLogger - Thread 1: Reading property file from path C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\src\test\resources\config.properties
+[INFO ] 2024-06-17 19:10:30.994 [main] TestLogger - Thread 1: Reading value from property file for key username
+[INFO ] 2024-06-17 19:10:30.994 [main] TestLogger - Thread 1: Reading value from property file for key password
+[INFO ] 2024-06-17 19:10:36.712 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2739ecc0: 108 ms
+[INFO ] 2024-06-17 19:10:36.714 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2932e15f: 1 ms
+[INFO ] 2024-06-17 19:10:36.732 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@37364634: 18 ms
+[INFO ] 2024-06-17 19:10:36.743 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@23708f14: 11 ms
+[INFO ] 2024-06-17 19:10:36.753 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@270b8c2a: 9 ms
+[INFO ] 2024-06-17 19:10:36.753 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7b9c2387: 0 ms
+[INFO ] 2024-06-17 19:11:11.777 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 19:11:11.931 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+[INFO ] 2024-06-17 19:11:11.942 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+[INFO ] 2024-06-17 19:11:11.944 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-06-17 19:11:11.945 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 19:11:11.946 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.946 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.947 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.947 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.947 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.948 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.948 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.948 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.949 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.949 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.949 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.950 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.952 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.952 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.953 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.954 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 19:11:11.957 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.957 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.958 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.958 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.962 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-06-17 19:11:11.962 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.964 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.964 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.964 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.965 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 19:11:11.972 [main] Utils - [TestNG] Running:
+  C:\Users\alokpandey02\AppData\Local\Temp\testng-eclipse--150867704\testng-customsuite.xml
+
+[INFO ] 2024-06-17 19:11:11.995 [main] TestLogger - Thread 1: Creating extent report instance
+[ERROR] 2024-06-17 19:11:11.997 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617191030.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617191030.html
+[INFO ] 2024-06-17 19:11:11.997 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 19:11:12.015 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+[INFO ] 2024-06-17 19:11:12.064 [main] TestLogger - Thread 1: GET endpoint - /booking/{id}
+[INFO ] 2024-06-17 19:11:12.284 [main] TestLogger - Thread 1: Reading property file from path C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\src\test\resources\config.properties
+[INFO ] 2024-06-17 19:11:12.305 [main] TestLogger - Thread 1: Reading value from property file for key username
+[INFO ] 2024-06-17 19:11:12.306 [main] TestLogger - Thread 1: Reading value from property file for key password
+[INFO ] 2024-06-17 19:11:17.833 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2375a976: 94 ms
+[INFO ] 2024-06-17 19:11:17.835 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4bc21e34: 0 ms
+[INFO ] 2024-06-17 19:11:17.852 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@14b26e90: 17 ms
+[INFO ] 2024-06-17 19:11:17.864 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@b6136eb: 11 ms
+[INFO ] 2024-06-17 19:11:17.873 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4e61a863: 9 ms
+[INFO ] 2024-06-17 19:11:17.875 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@35f01759: 0 ms
+[INFO ] 2024-06-17 20:32:46.387 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 20:32:46.517 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 20:32:46.580 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+[INFO ] 2024-06-17 20:32:46.593 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+[INFO ] 2024-06-17 20:32:46.596 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.597 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 20:32:46.598 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.599 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.600 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.600 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.600 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.601 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.601 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.602 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.602 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.603 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.603 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.603 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.606 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.606 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.607 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.608 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.612 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.613 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.613 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.613 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.617 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[INFO ] 2024-06-17 20:32:46.618 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.620 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.620 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.621 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:32:46.622 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 20:32:46.633 [main] Utils - [TestNG] Running:
+  C:\Users\alokpandey02\AppData\Local\Temp\testng-eclipse-949880809\testng-customsuite.xml
+
+[INFO ] 2024-06-17 20:32:46.664 [main] TestLogger - Thread 1: Creating extent report instance
+[ERROR] 2024-06-17 20:32:46.667 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617191030.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617191030.html
+[ERROR] 2024-06-17 20:32:46.668 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617191111.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617191111.html
+[INFO ] 2024-06-17 20:32:46.668 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 20:32:46.688 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+[INFO ] 2024-06-17 20:32:46.740 [main] TestLogger - Thread 1: GET endpoint - /booking
+[INFO ] 2024-06-17 20:32:46.990 [main] TestLogger - Thread 1: Reading property file from path C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\src\test\resources\config.properties
+[INFO ] 2024-06-17 20:32:47.015 [main] TestLogger - Thread 1: Reading value from property file for key username
+[INFO ] 2024-06-17 20:32:47.015 [main] TestLogger - Thread 1: Reading value from property file for key password
+[INFO ] 2024-06-17 20:32:53.265 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2375a976: 77 ms
+[INFO ] 2024-06-17 20:32:53.266 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4bc21e34: 1 ms
+[INFO ] 2024-06-17 20:32:53.281 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@14b26e90: 14 ms
+[INFO ] 2024-06-17 20:32:53.291 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@b6136eb: 10 ms
+[INFO ] 2024-06-17 20:32:53.299 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4e61a863: 8 ms
+[INFO ] 2024-06-17 20:32:53.299 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@35f01759: 0 ms
+[INFO ] 2024-06-17 20:33:00.353 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 20:33:00.486 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 20:33:00.549 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+[INFO ] 2024-06-17 20:33:00.563 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+[INFO ] 2024-06-17 20:33:00.565 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:33:00.566 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 20:33:00.568 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:33:00.568 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:33:00.569 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:33:00.569 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:33:00.570 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:33:00.570 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:33:00.571 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:33:00.571 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:33:00.572 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:33:00.572 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:33:00.572 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:33:00.573 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:33:00.575 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-06-17 20:33:00.576 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 20:33:00.577 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:33:00.579 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 20:33:00.583 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-06-17 20:33:00.584 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 20:33:00.584 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:33:00.584 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:33:00.588 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[INFO ] 2024-06-17 20:33:00.589 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 20:33:00.590 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:33:00.591 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:33:00.591 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:33:00.592 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:33:00.602 [main] Utils - [TestNG] Running:
+  C:\Users\alokpandey02\AppData\Local\Temp\testng-eclipse-1370258115\testng-customsuite.xml
+
+[INFO ] 2024-06-17 20:33:00.634 [main] TestLogger - Thread 1: Creating extent report instance
+[ERROR] 2024-06-17 20:33:00.637 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617191030.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617191030.html
+[ERROR] 2024-06-17 20:33:00.638 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617191111.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617191111.html
+[ERROR] 2024-06-17 20:33:00.638 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617203246.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617203246.html
+[INFO ] 2024-06-17 20:33:00.639 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 20:33:00.661 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+[INFO ] 2024-06-17 20:33:00.736 [main] TestLogger - Thread 1: GET endpoint - /booking/{id}
+[INFO ] 2024-06-17 20:33:01.019 [main] TestLogger - Thread 1: Reading property file from path C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\src\test\resources\config.properties
+[INFO ] 2024-06-17 20:33:01.020 [main] TestLogger - Thread 1: Reading value from property file for key username
+[INFO ] 2024-06-17 20:33:01.020 [main] TestLogger - Thread 1: Reading value from property file for key password
+[INFO ] 2024-06-17 20:33:07.239 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@103e7c7c: 96 ms
+[INFO ] 2024-06-17 20:33:07.241 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5c3710b3: 1 ms
+[INFO ] 2024-06-17 20:33:07.257 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@27fc0217: 16 ms
+[INFO ] 2024-06-17 20:33:07.270 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@71f29d91: 11 ms
+[INFO ] 2024-06-17 20:33:07.278 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@42ffbab6: 8 ms
+[INFO ] 2024-06-17 20:33:07.278 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7672960e: 0 ms
+[INFO ] 2024-06-17 20:47:43.107 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 20:47:43.261 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 20:47:43.326 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+[INFO ] 2024-06-17 20:47:43.339 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+[INFO ] 2024-06-17 20:47:43.342 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.343 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.344 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.345 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.346 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.346 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.347 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.347 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.348 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.348 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.349 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.349 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.350 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.350 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.353 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.354 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 20:47:43.355 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.356 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.360 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.361 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.361 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.361 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.362 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.363 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.365 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.365 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.366 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:47:43.367 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 20:47:43.379 [main] Utils - [TestNG] Running:
+  C:\Users\alokpandey02\AppData\Local\Temp\testng-eclipse-653900515\testng-customsuite.xml
+
+[INFO ] 2024-06-17 20:47:43.411 [main] TestLogger - Thread 1: Creating extent report instance
+[ERROR] 2024-06-17 20:47:43.413 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617191030.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617191030.html
+[ERROR] 2024-06-17 20:47:43.414 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617191111.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617191111.html
+[ERROR] 2024-06-17 20:47:43.415 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617203246.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617203246.html
+[ERROR] 2024-06-17 20:47:43.416 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617203300.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617203300.html
+[INFO ] 2024-06-17 20:47:43.416 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 20:47:43.439 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+[INFO ] 2024-06-17 20:47:43.494 [main] TestLogger - Thread 1: GET endpoint - /booking/{id}
+[INFO ] 2024-06-17 20:47:43.743 [main] TestLogger - Thread 1: Reading property file from path C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\src\test\resources\config.properties
+[INFO ] 2024-06-17 20:47:43.744 [main] TestLogger - Thread 1: Reading value from property file for key username
+[INFO ] 2024-06-17 20:47:43.745 [main] TestLogger - Thread 1: Reading value from property file for key password
+[INFO ] 2024-06-17 20:47:48.451 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@73ddb7ef: 110 ms
+[INFO ] 2024-06-17 20:47:48.473 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@e8c84eb: 22 ms
+[INFO ] 2024-06-17 20:47:48.500 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@78bd02c8: 27 ms
+[INFO ] 2024-06-17 20:47:48.519 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3ff26c9: 18 ms
+[INFO ] 2024-06-17 20:47:48.545 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5b6cc344: 25 ms
+[INFO ] 2024-06-17 20:47:48.546 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2110684a: 0 ms
+[INFO ] 2024-06-17 20:52:28.526 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 20:52:28.671 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 20:52:28.735 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+[INFO ] 2024-06-17 20:52:28.750 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+[INFO ] 2024-06-17 20:52:28.754 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.755 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.758 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.758 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.759 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.760 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.761 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.761 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.762 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.762 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.763 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.764 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.764 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.765 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.767 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.768 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 20:52:28.769 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.770 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.775 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.775 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.776 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.776 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.777 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.777 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.779 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.780 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.780 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.781 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:52:28.792 [main] Utils - [TestNG] Running:
+  C:\Users\alokpandey02\AppData\Local\Temp\testng-eclipse-1114458628\testng-customsuite.xml
+
+[INFO ] 2024-06-17 20:52:28.829 [main] TestLogger - Thread 1: Creating extent report instance
+[ERROR] 2024-06-17 20:52:28.832 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617191030.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617191030.html
+[ERROR] 2024-06-17 20:52:28.833 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617191111.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617191111.html
+[ERROR] 2024-06-17 20:52:28.833 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617203246.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617203246.html
+[ERROR] 2024-06-17 20:52:28.834 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617203300.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617203300.html
+[ERROR] 2024-06-17 20:52:28.835 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617204743.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617204743.html
+[INFO ] 2024-06-17 20:52:28.836 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 20:52:28.860 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+[INFO ] 2024-06-17 20:52:28.917 [main] TestLogger - Thread 1: GET endpoint - /booking/{id}
+[INFO ] 2024-06-17 20:52:29.194 [main] TestLogger - Thread 1: Reading property file from path C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\src\test\resources\config.properties
+[INFO ] 2024-06-17 20:52:29.195 [main] TestLogger - Thread 1: Reading value from property file for key username
+[INFO ] 2024-06-17 20:52:29.195 [main] TestLogger - Thread 1: Reading value from property file for key password
+[INFO ] 2024-06-17 20:52:34.101 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3ea2f72e: 118 ms
+[INFO ] 2024-06-17 20:52:34.128 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@71668a67: 26 ms
+[INFO ] 2024-06-17 20:52:34.155 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@638d2ce3: 27 ms
+[INFO ] 2024-06-17 20:52:34.173 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5a2035e1: 17 ms
+[INFO ] 2024-06-17 20:52:34.200 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@30bbe83: 25 ms
+[INFO ] 2024-06-17 20:52:34.202 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@57b130f6: 0 ms
+[INFO ] 2024-06-17 20:53:25.670 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 20:53:25.851 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 20:53:25.938 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 14 ms.
+[INFO ] 2024-06-17 20:53:25.957 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+[INFO ] 2024-06-17 20:53:25.961 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.962 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.964 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.964 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.965 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.965 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.966 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.967 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.968 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.968 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.970 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.970 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.971 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.972 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.975 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.978 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 20:53:25.980 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.981 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.987 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.989 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.989 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.989 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.991 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.994 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.997 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.998 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 20:53:25.999 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 20:53:26.000 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 20:53:26.016 [main] Utils - [TestNG] Running:
+  C:\Users\alokpandey02\AppData\Local\Temp\testng-eclipse--23351139\testng-customsuite.xml
+
+[INFO ] 2024-06-17 20:53:26.060 [main] TestLogger - Thread 1: Creating extent report instance
+[ERROR] 2024-06-17 20:53:26.063 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617191030.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617191030.html
+[ERROR] 2024-06-17 20:53:26.064 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617191111.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617191111.html
+[ERROR] 2024-06-17 20:53:26.065 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617203246.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617203246.html
+[ERROR] 2024-06-17 20:53:26.066 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617203300.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617203300.html
+[ERROR] 2024-06-17 20:53:26.067 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617204743.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617204743.html
+[ERROR] 2024-06-17 20:53:26.069 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617205228.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617205228.html
+[INFO ] 2024-06-17 20:53:26.070 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 20:53:26.102 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+[INFO ] 2024-06-17 20:53:26.170 [main] TestLogger - Thread 1: GET endpoint - /booking
+[INFO ] 2024-06-17 20:53:26.516 [main] TestLogger - Thread 1: Reading property file from path C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\src\test\resources\config.properties
+[INFO ] 2024-06-17 20:53:26.517 [main] TestLogger - Thread 1: Reading value from property file for key username
+[INFO ] 2024-06-17 20:53:26.517 [main] TestLogger - Thread 1: Reading value from property file for key password
+[INFO ] 2024-06-17 20:53:33.103 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5c1dd18: 85 ms
+[INFO ] 2024-06-17 20:53:33.104 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2a6dbb7c: 1 ms
+[INFO ] 2024-06-17 20:53:33.121 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@103e7c7c: 17 ms
+[INFO ] 2024-06-17 20:53:33.130 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@35f01759: 9 ms
+[INFO ] 2024-06-17 20:53:33.139 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@686e7513: 8 ms
+[INFO ] 2024-06-17 20:53:33.139 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@47eae91d: 0 ms
+[INFO ] 2024-06-17 21:03:36.205 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:03:36.333 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:03:36.405 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:03:36.406 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:03:36.468 [main] Utils - [TestNG] Running:
+  C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\testng.xml
+
+[INFO ] 2024-06-17 21:03:36.499 [main] TestLogger - Thread 1: Creating extent report instance
+[ERROR] 2024-06-17 21:03:36.501 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617191030.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617191030.html
+[ERROR] 2024-06-17 21:03:36.502 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617191111.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617191111.html
+[ERROR] 2024-06-17 21:03:36.503 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617203246.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617203246.html
+[ERROR] 2024-06-17 21:03:36.504 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617203300.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617203300.html
+[ERROR] 2024-06-17 21:03:36.505 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617204743.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617204743.html
+[ERROR] 2024-06-17 21:03:36.506 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617205228.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617205228.html
+[ERROR] 2024-06-17 21:03:36.507 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617205326.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617205326.html
+[INFO ] 2024-06-17 21:03:36.507 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:03:36.601 [main] TestLogger - Thread 1: GET endpoint - /booking/{id}
+[INFO ] 2024-06-17 21:03:36.878 [main] TestLogger - Thread 1: Reading property file from path C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\src\test\resources\config.properties
+[INFO ] 2024-06-17 21:03:36.905 [main] TestLogger - Thread 1: Reading value from property file for key username
+[INFO ] 2024-06-17 21:03:36.906 [main] TestLogger - Thread 1: Reading value from property file for key password
+[INFO ] 2024-06-17 21:03:42.976 [main] TestLogger - Thread 1: GET endpoint - /booking
+[INFO ] 2024-06-17 21:03:44.471 [main] TestLogger - Thread 1: GET endpoint - /booking
+[INFO ] 2024-06-17 21:05:31.072 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:05:31.202 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:05:31.272 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:05:31.273 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:05:31.334 [main] Utils - [TestNG] Running:
+  C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\testng.xml
+
+[INFO ] 2024-06-17 21:05:31.365 [main] TestLogger - Thread 1: Creating extent report instance
+[ERROR] 2024-06-17 21:05:31.367 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617191030.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617191030.html
+[ERROR] 2024-06-17 21:05:31.368 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617191111.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617191111.html
+[ERROR] 2024-06-17 21:05:31.369 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617203246.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617203246.html
+[ERROR] 2024-06-17 21:05:31.370 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617203300.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617203300.html
+[ERROR] 2024-06-17 21:05:31.370 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617204743.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617204743.html
+[ERROR] 2024-06-17 21:05:31.371 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617205228.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617205228.html
+[ERROR] 2024-06-17 21:05:31.372 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617205326.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617205326.html
+[ERROR] 2024-06-17 21:05:31.373 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617210336.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617210336.html
+[INFO ] 2024-06-17 21:05:31.374 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:05:31.455 [main] TestLogger - Thread 1: GET endpoint - /booking/{id}
+[INFO ] 2024-06-17 21:05:31.734 [main] TestLogger - Thread 1: Reading property file from path C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\src\test\resources\config.properties
+[INFO ] 2024-06-17 21:05:31.735 [main] TestLogger - Thread 1: Reading value from property file for key username
+[INFO ] 2024-06-17 21:05:31.735 [main] TestLogger - Thread 1: Reading value from property file for key password
+[INFO ] 2024-06-17 21:05:37.891 [main] TestLogger - Thread 1: GET endpoint - /booking
+[INFO ] 2024-06-17 21:05:39.780 [main] TestLogger - Thread 1: GET endpoint - /booking
+[INFO ] 2024-06-17 21:06:49.708 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:06:49.844 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:06:49.907 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+[INFO ] 2024-06-17 21:06:49.920 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+[INFO ] 2024-06-17 21:06:49.923 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-06-17 21:06:49.924 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 21:06:49.925 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.925 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.926 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.927 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.928 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.928 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.929 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.929 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.930 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.930 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.931 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.931 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.933 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.934 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.936 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.936 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.942 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-06-17 21:06:49.942 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.943 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.943 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.944 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.945 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 21:06:49.947 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.947 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.948 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-06-17 21:06:49.949 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-06-17 21:06:49.960 [main] Utils - [TestNG] Running:
+  C:\Users\alokpandey02\AppData\Local\Temp\testng-eclipse-431568201\testng-customsuite.xml
+
+[INFO ] 2024-06-17 21:06:49.992 [main] TestLogger - Thread 1: Creating extent report instance
+[ERROR] 2024-06-17 21:06:49.994 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617191030.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617191030.html
+[ERROR] 2024-06-17 21:06:49.995 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617191111.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617191111.html
+[ERROR] 2024-06-17 21:06:49.996 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617203246.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617203246.html
+[ERROR] 2024-06-17 21:06:49.996 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617203300.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617203300.html
+[ERROR] 2024-06-17 21:06:49.997 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617204743.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617204743.html
+[ERROR] 2024-06-17 21:06:49.998 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617205228.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617205228.html
+[ERROR] 2024-06-17 21:06:49.999 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617205326.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617205326.html
+[ERROR] 2024-06-17 21:06:50.000 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617210336.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617210336.html
+[ERROR] 2024-06-17 21:06:50.000 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617210531.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617210531.html
+[INFO ] 2024-06-17 21:06:50.001 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:06:50.025 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+[INFO ] 2024-06-17 21:06:50.090 [main] TestLogger - Thread 1: GET endpoint - /booking
+[INFO ] 2024-06-17 21:06:50.385 [main] TestLogger - Thread 1: Reading property file from path C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\src\test\resources\config.properties
+[INFO ] 2024-06-17 21:06:50.386 [main] TestLogger - Thread 1: Reading value from property file for key username
+[INFO ] 2024-06-17 21:06:50.387 [main] TestLogger - Thread 1: Reading value from property file for key password
+[INFO ] 2024-06-17 21:06:56.573 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@31f1b268: 76 ms
+[INFO ] 2024-06-17 21:06:56.592 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@55682482: 19 ms
+[INFO ] 2024-06-17 21:06:56.610 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@a7bbdbc: 18 ms
+[INFO ] 2024-06-17 21:06:56.620 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1d1b3620: 10 ms
+[INFO ] 2024-06-17 21:06:56.630 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@73da303e: 10 ms
+[INFO ] 2024-06-17 21:06:56.631 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@24068086: 0 ms
+[INFO ] 2024-06-17 21:08:33.521 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:08:33.656 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:08:33.718 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:08:33.719 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:08:33.781 [main] Utils - [TestNG] Running:
+  C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\testng.xml
+
+[INFO ] 2024-06-17 21:08:33.816 [main] TestLogger - Thread 1: Creating extent report instance
+[ERROR] 2024-06-17 21:08:33.819 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617191030.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617191030.html
+[ERROR] 2024-06-17 21:08:33.820 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617191111.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617191111.html
+[ERROR] 2024-06-17 21:08:33.820 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617203246.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617203246.html
+[ERROR] 2024-06-17 21:08:33.822 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617203300.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617203300.html
+[ERROR] 2024-06-17 21:08:33.823 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617204743.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617204743.html
+[ERROR] 2024-06-17 21:08:33.825 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617205228.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617205228.html
+[ERROR] 2024-06-17 21:08:33.826 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617205326.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617205326.html
+[ERROR] 2024-06-17 21:08:33.827 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617210336.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617210336.html
+[ERROR] 2024-06-17 21:08:33.828 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617210531.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617210531.html
+[ERROR] 2024-06-17 21:08:33.829 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617210650.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617210650.html
+[INFO ] 2024-06-17 21:08:33.829 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:08:33.913 [main] TestLogger - Thread 1: GET endpoint - /booking/{id}
+[INFO ] 2024-06-17 21:08:34.174 [main] TestLogger - Thread 1: Reading property file from path C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\src\test\resources\config.properties
+[INFO ] 2024-06-17 21:08:34.175 [main] TestLogger - Thread 1: Reading value from property file for key username
+[INFO ] 2024-06-17 21:08:34.175 [main] TestLogger - Thread 1: Reading value from property file for key password
+[INFO ] 2024-06-17 21:08:39.860 [main] TestLogger - Thread 1: GET endpoint - /booking
+[INFO ] 2024-06-17 21:08:41.648 [main] TestLogger - Thread 1: GET endpoint - /booking
+[INFO ] 2024-06-17 21:17:10.311 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:17:10.438 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:17:10.503 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:17:10.504 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:17:10.567 [main] Utils - [TestNG] Running:
+  C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\testng.xml
+
+[INFO ] 2024-06-17 21:17:10.600 [main] TestLogger - Thread 1: Creating extent report instance
+[INFO ] 2024-06-17 21:17:10.601 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:17:10.716 [main] TestLogger - Thread 1: GET endpoint - /booking/{id}
+[INFO ] 2024-06-17 21:17:10.998 [main] TestLogger - Thread 1: Reading property file from path C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\src\test\resources\config.properties
+[INFO ] 2024-06-17 21:17:11.019 [main] TestLogger - Thread 1: Reading value from property file for key username
+[INFO ] 2024-06-17 21:17:11.019 [main] TestLogger - Thread 1: Reading value from property file for key password
+[INFO ] 2024-06-17 21:17:16.660 [main] TestLogger - Thread 1: GET endpoint - /booking
+[INFO ] 2024-06-17 21:17:18.483 [main] TestLogger - Thread 1: GET endpoint - /booking
+[INFO ] 2024-06-17 21:18:55.934 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:18:56.073 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:18:56.142 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:18:56.143 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:18:56.209 [main] Utils - [TestNG] Running:
+  C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\testng.xml
+
+[INFO ] 2024-06-17 21:18:56.245 [main] TestLogger - Thread 1: Creating extent report instance
+[ERROR] 2024-06-17 21:18:56.247 [main] TestLogger - Thread 1: C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\CurrentTestResults\TestResult20240617211710.html -> C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\Reports\ArchivedTestResults\TestResult20240617211710.html
+[INFO ] 2024-06-17 21:18:56.247 [main] TestLogger - Thread 1: Returning current time stamp
+[INFO ] 2024-06-17 21:18:56.330 [main] TestLogger - Thread 1: GET endpoint - /booking/{id}
+[INFO ] 2024-06-17 21:18:56.562 [main] TestLogger - Thread 1: Reading property file from path C:\Users\alokpandey02\eclipse-workspace\RestAssuredFramework\src\test\resources\config.properties
+[INFO ] 2024-06-17 21:18:56.563 [main] TestLogger - Thread 1: Reading value from property file for key username
+[INFO ] 2024-06-17 21:18:56.564 [main] TestLogger - Thread 1: Reading value from property file for key password
+[INFO ] 2024-06-17 21:19:02.176 [main] TestLogger - Thread 1: GET endpoint - /booking
+[INFO ] 2024-06-17 21:19:03.905 [main] TestLogger - Thread 1: GET endpoint - /booking

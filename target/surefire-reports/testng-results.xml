@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-21T21:48:30 IST" name="Surefire suite" finished-at="2024-06-21T21:48:45 IST" duration-ms="14175">
+    <groups>
+      <group name="createBooking">
+        <method signature="PostAPITest.verifyTheCreateBookingAPI()[pri:0, instance:tests.PostAPITest@70e3f36f]" name="verifyTheCreateBookingAPI" class="tests.PostAPITest"/>
+      </group> <!-- createBooking -->
+    </groups>
+    <test started-at="2024-06-21T21:48:30 IST" name="Surefire test" finished-at="2024-06-21T21:48:45 IST" duration-ms="14175">
+      <class name="tests.PatchAPITest">
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:tests.PatchAPITest@2b214b94]" started-at="2024-06-21T21:48:40 IST" name="BeforeMethod" finished-at="2024-06-21T21:48:40 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyThePartialUpdateBookingAPI()[pri:1, instance:tests.PatchAPITest@2b214b94]" started-at="2024-06-21T21:48:40 IST" name="verifyThePartialUpdateBookingAPI" depends-on-groups="createBooking" finished-at="2024-06-21T21:48:41 IST" duration-ms="1525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyThePartialUpdateBookingAPI -->
+        <test-method is-config="true" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:tests.PatchAPITest@2b214b94]" started-at="2024-06-21T21:48:41 IST" name="AfterMethod" finished-at="2024-06-21T21:48:41 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyThePartialUpdateBookingAPI status=SUCCESS method=PatchAPITest.verifyThePartialUpdateBookingAPI()[pri:1, instance:tests.PatchAPITest@2b214b94] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+      </class> <!-- tests.PatchAPITest -->
+      <class name="tests.PostAPITest">
+        <test-method signature="verifyTheCreateBookingAPI()[pri:0, instance:tests.PostAPITest@70e3f36f]" started-at="2024-06-21T21:48:36 IST" name="verifyTheCreateBookingAPI" finished-at="2024-06-21T21:48:38 IST" duration-ms="1992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheCreateBookingAPI -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:tests.PostAPITest@70e3f36f]" started-at="2024-06-21T21:48:36 IST" name="BeforeMethod" finished-at="2024-06-21T21:48:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method is-config="true" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:tests.PostAPITest@70e3f36f]" started-at="2024-06-21T21:48:38 IST" name="AfterMethod" finished-at="2024-06-21T21:48:38 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTheCreateBookingAPI status=SUCCESS method=PostAPITest.verifyTheCreateBookingAPI()[pri:0, instance:tests.PostAPITest@70e3f36f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+      </class> <!-- tests.PostAPITest -->
+      <class name="tests.GetAPITest">
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:tests.GetAPITest@1bfe3203]" started-at="2024-06-21T21:48:31 IST" name="BeforeMethod" finished-at="2024-06-21T21:48:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyThatGetBookingIdsAPIResponseIsNotNull()[pri:0, instance:tests.GetAPITest@1bfe3203]" started-at="2024-06-21T21:48:31 IST" name="verifyThatGetBookingIdsAPIResponseIsNotNull" finished-at="2024-06-21T21:48:36 IST" duration-ms="5588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyThatGetBookingIdsAPIResponseIsNotNull -->
+        <test-method is-config="true" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:tests.GetAPITest@1bfe3203]" started-at="2024-06-21T21:48:36 IST" name="AfterMethod" finished-at="2024-06-21T21:48:36 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyThatGetBookingIdsAPIResponseIsNotNull status=SUCCESS method=GetAPITest.verifyThatGetBookingIdsAPIResponseIsNotNull()[pri:0, instance:tests.GetAPITest@1bfe3203] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method signature="verifyThatGetBookingIdAPIResponseIsNotNull()[pri:1, instance:tests.GetAPITest@1bfe3203]" started-at="2024-06-21T21:48:38 IST" name="verifyThatGetBookingIdAPIResponseIsNotNull" finished-at="2024-06-21T21:48:40 IST" duration-ms="1612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyThatGetBookingIdAPIResponseIsNotNull -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:tests.GetAPITest@1bfe3203]" started-at="2024-06-21T21:48:38 IST" name="BeforeMethod" finished-at="2024-06-21T21:48:38 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method is-config="true" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:tests.GetAPITest@1bfe3203]" started-at="2024-06-21T21:48:40 IST" name="AfterMethod" finished-at="2024-06-21T21:48:40 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyThatGetBookingIdAPIResponseIsNotNull status=SUCCESS method=GetAPITest.verifyThatGetBookingIdAPIResponseIsNotNull()[pri:1, instance:tests.GetAPITest@1bfe3203] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+      </class> <!-- tests.GetAPITest -->
+      <class name="tests.PutAPITest">
+        <test-method signature="verifyTheUpdateBookingAPI()[pri:2, instance:tests.PutAPITest@49601f82]" started-at="2024-06-21T21:48:41 IST" name="verifyTheUpdateBookingAPI" depends-on-groups="createBooking" finished-at="2024-06-21T21:48:43 IST" duration-ms="1788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheUpdateBookingAPI -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:tests.PutAPITest@49601f82]" started-at="2024-06-21T21:48:41 IST" name="BeforeMethod" finished-at="2024-06-21T21:48:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method is-config="true" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:tests.PutAPITest@49601f82]" started-at="2024-06-21T21:48:43 IST" name="AfterMethod" finished-at="2024-06-21T21:48:43 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTheUpdateBookingAPI status=SUCCESS method=PutAPITest.verifyTheUpdateBookingAPI()[pri:2, instance:tests.PutAPITest@49601f82] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+      </class> <!-- tests.PutAPITest -->
+      <class name="tests.DeleteAPITest">
+        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:tests.DeleteAPITest@13047d7d]" started-at="2024-06-21T21:48:30 IST" name="BeforeSuite" finished-at="2024-06-21T21:48:30 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method signature="verifyTheDeleteBookingAPI()[pri:4, instance:tests.DeleteAPITest@13047d7d]" started-at="2024-06-21T21:48:43 IST" name="verifyTheDeleteBookingAPI" depends-on-groups="createBooking" finished-at="2024-06-21T21:48:45 IST" duration-ms="1600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheDeleteBookingAPI -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:tests.DeleteAPITest@13047d7d]" started-at="2024-06-21T21:48:43 IST" name="BeforeMethod" finished-at="2024-06-21T21:48:43 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method is-config="true" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:tests.DeleteAPITest@13047d7d]" started-at="2024-06-21T21:48:45 IST" name="AfterMethod" finished-at="2024-06-21T21:48:45 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTheDeleteBookingAPI status=SUCCESS method=DeleteAPITest.verifyTheDeleteBookingAPI()[pri:4, instance:tests.DeleteAPITest@13047d7d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:tests.DeleteAPITest@13047d7d]" started-at="2024-06-21T21:48:45 IST" name="AfterSuite" finished-at="2024-06-21T21:48:45 IST" duration-ms="630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- tests.DeleteAPITest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
